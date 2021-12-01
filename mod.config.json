@@ -1,0 +1,9 @@
+{
+    "name": "serverSettings",
+    "author": "life",
+    "version": "1.0.0",
+    "license": "MIT",
+    "src": {
+        "src/Cached.js": "CacheModLoad"
+    }
+}
